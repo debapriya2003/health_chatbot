@@ -3,7 +3,7 @@ from pymongo import MongoClient
 import os
 
 # Set OpenAI API key (replace with your own)
-openai.api_key = "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"
+openai.api_key = "snclsytvnlshtsnhvt"
 
 # MongoDB connection
 client = MongoClient("mongodb+srv://tintin:tintin@cluster0.qot4y.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
